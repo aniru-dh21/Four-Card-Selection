@@ -2,7 +2,7 @@
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
 
-DEMO LIVE: [Four-Card-Selection]().
+DEMO LIVE: [Four-Card-Selection](https://aniru-dh21.github.io/Four-Card-Selection/).
 
 ## Welcome! 👋
 
